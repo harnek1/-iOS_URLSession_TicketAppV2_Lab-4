@@ -3,11 +3,5 @@
       {"total": 2000, "ticketType": "Balcony Level", "numberOfTickets": 50, "getDate": "No Date"},
       {"total": 1500, "ticketType": "Lower Level", "numberOfTickets": 100, "getDate": "No Date"},
       {"total": 3000, "ticketType": "Courtside", "numberOfTickets": 20, "getDate": "No Date"}
-  ],
-  
-  "TicketInfo": [
-      {"total": "number", "ticketType": "string", "numberOfTickets": "Number", "getDate": "No Date"},
-     
-  ]
-        
+  ]  
 }
