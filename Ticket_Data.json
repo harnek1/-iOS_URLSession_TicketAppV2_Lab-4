@@ -2,6 +2,6 @@
   "defaultTicketInfo": [
       {"totalPrice": 2000, "typeOfTicket": "Balcony Level", "numOfTickets": 50, "date": "No Date"},
       {"totalPrice": 1500, "typeOfTicket": "Lower Level", "numOfTickets": 100, "date": "No Date"},
-      {"otalPrice": 3000, "typeOfTicket": "Courtside", "numOfTickets": 20, "date": "No Date"}
+      {"totalPrice": 3000, "typeOfTicket": "Courtside", "numOfTickets": 20, "date": "No Date"}
   ]  
 }
